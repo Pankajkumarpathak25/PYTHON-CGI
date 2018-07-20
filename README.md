@@ -20,6 +20,7 @@ when you want to run a command then it need to ROOT power so
 # permission for apache like root 
 # vim /etc/suoers
       IN SUDORES FILE LINE NO 93,1
+     
       ## Allow root to run any commands anywhere 
 root    ALL=(ALL)       ALL
 apache  ALL=(ALL)       NOPASSWD: ALL
