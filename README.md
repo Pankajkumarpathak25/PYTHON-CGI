@@ -23,6 +23,7 @@ when you want to run a command then it need to ROOT power so
      
       ## Allow root to run any commands anywhere 
 root    ALL=(ALL)       ALL
+
 apache  ALL=(ALL)       NOPASSWD: ALL
 
 NOTE 3:
